@@ -1,3 +1,5 @@
 HelloWorld.Java
 
-public static void public static
+ public static void main(String[] args) {
+	
+}
